@@ -12,41 +12,41 @@ The Code of Conduct governs how we behave in public or in private whenever the U
 
 ### We strive to:
 
-* Be considerate
+* Be considerate  
 
-* Be respectful
+* Be respectful  
 Disagreement is no excuse for poor manners. We work together to resolve conflict, assume good intentions and do our best to act in an empathic fashion. We don't allow frustration to turn into a personal attack. A community where people feel uncomfortable or threatened is not a productive one.
 
-* Take responsibility for our words and our actions
+* Take responsibility for our words and our actions  
 We can all make mistakes; when we do, we take responsibility for them. If someone has been harmed or offended, we listen carefully and respectfully, and work to right the wrong.
 
-* Be collaborative
+* Be collaborative  
 What we build together is a complex whole made of many parts, it is the sum of many dreams. Collaboration between initiatives that each have their own goal and vision is essential; for the whole to be more than the sum of its parts, each part must make an effort to understand the whole.  
 Collaboration reduces redundancy and improves the quality of our work. Internally and externally, we celebrate good collaboration. Wherever possible, we work closely with upstream projects and others in the free software community to coordinate our efforts. We prefer to work transparently and involve interested parties as early as possible.
 
-* Value decisiveness, clarity and consensus
+* Value decisiveness, clarity and consensus  
 Disagreements, social and technical, are normal, but we do not allow them to persist and fester leaving others uncertain of the agreed direction.  
 We expect participants in the Uncoded community to resolve disagreements constructively. When they cannot, we escalate the matter to structures with designated leaders to arbitrate and provide clarity and direction.
 
-* Ask for help when unsure
+* Ask for help when unsure  
 Nobody is expected to be perfect in this community. Asking questions early avoids many problems later, so questions are encouraged, though they may be directed to the appropriate forum. Those who are asked should be responsive and helpful.
 
-* Step down considerately
+* Step down considerately  
 When somebody leaves or disengages from the Uncoded community, we ask that they do so in a way that minimizes disruption. They should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off.
 
-### Leadership, authority and responsibility
+### Leadership, authority and responsibility  
 We all lead by example, in debate and in action. We encourage new participants to feel empowered to lead, to take action, and to experiment when they feel innovation could improve the Uncoded community. Leadership can be exercised by anyone simply by taking action, there is no need to wait for recognition when the opportunity to lead presents itself.
 
-#### Delegation from the top
+#### Delegation from the top  
 Responsibility for the Uncoded community starts with the "benevolent dictator", who delegates specific responsibilities and the corresponding authority to a series of teams, councils and individuals, starting with the Community Council ("CC"). That Council or its delegated representative will arbitrate in any dispute.  
 We are a meritocracy; we delegate decision making, governance and leadership from senior bodies to the most able and engaged candidates.
 
-#### Support for delegation is measured
-Nominations to the boards and councils are at the discretion of the Community Council, however the Community Council will seek the input of the community before confirming appointments.
+#### Support for delegation is measured  
+Nominations to the boards and councils are at the discretion of the Uncoded Board of Directors (BOD), however the BOD will seek the input of the community before confirming appointments.
 
-#### Leadership is not an award, right, or title; it is a privilege, a responsibility and a mandate. A leader will only retain their authority as long as they retain the support of those who delegated that authority to them.
+Leadership is not an award, right, or title; it is a privilege, a responsibility and a mandate. A leader will only retain their authority as long as they retain the support of those who delegated that authority to them.
 
-#### We value discussion, data and decisiveness
+#### We value discussion, data and decisiveness  
 We gather opinions, data and commitments from concerned parties before taking a decision. We expect leaders to help teams come to a decision in a reasonable time, to seek guidance or be willing to take the decision themselves when consensus is lacking, and to take responsibility for implementation.  
 The poorest decision of all is no decision: clarity of direction has value in itself. Sometimes all the data are not available, or consensus is elusive. A decision must still be made. There is no guarantee of a perfect decision every time - we prefer to err, learn, and err less in future than to postpone action indefinitely.  
 We recognize that the Uncoded community works better when we trust the teams closest to a problem to make the decision for the Uncoded community. If we learn of a decision that we disagree with, we can engage the relevant team to find common ground. Ultimately, if a decision has been taken by the people responsible for it, and is supported by the Uncoded community governance, it will stand. None of us expects to agree with every decision, and we value highly the willingness to stand by the Uncoded community and help it deliver even on the occasions when we ourselves may prefer a different route.
