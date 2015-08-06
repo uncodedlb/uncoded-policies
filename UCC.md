@@ -70,4 +70,4 @@ We expect leaders to be aware when they are conflicted due to employment or othe
 When in doubt, ask for a second opinion. Perceived conflicts of interest are important to address; as a leader, act to ensure that decisions are credible even if they must occasionally be unpopular, difficult or favorable to the interests of one group over another.
 
 
->  The Uncoded Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 4.0 license. It was originally derived from the [Uncoded Code of Conduct](http://www.ubuntu.com/about/about-ubuntu/conduct).  You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to Uncoded.org!
+>  The Uncoded Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 4.0 license. It was originally derived from the [Ubuntu Code of Conduct](http://www.ubuntu.com/about/about-ubuntu/conduct) and [Drupal Code of Conduct](https://www.drupal.org/dcoc).  You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to Uncoded.org!
